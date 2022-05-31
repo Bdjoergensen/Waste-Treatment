@@ -243,7 +243,8 @@ p {
 ---------------------------------*/
 
 #header_wrapper {
-    background: #ffffff;
+    background: #FFF;
+  
     padding: 20px 0px;
 	
     border-top: 4px solid #006633;
@@ -255,9 +256,9 @@ p {
 }
 
 .logo {
-    width: 55px;
+    width: 200px;
     float: left;
-    margin-top: 8px;
+    margin-top: 0px;
 	position: relative;
 	z-index: 2;
 }
@@ -410,7 +411,7 @@ p {
 .top_left_cont h2 strong {
     font-weight: 700;
 	
-    color: #FFC166;
+    color: #00b359;
 }
 
 .top_left_cont p {
@@ -729,7 +730,12 @@ img {
 
 #clients {
     padding: 60px 0px;
+    background: #006633 url(../img/pattern-1.png) top left repeat;
 }
+#clients h2{
+    color: #fff;
+  
+  }
 
 .client_area {
     width: 960px;
@@ -787,7 +793,7 @@ img {
 
 
 s {
-    background: #006633;
+    background: #006633 url(../img/pattern-1.png) top left repeat;
     padding: 60px 0;
     margin-top: 60px;
 }
@@ -890,6 +896,7 @@ background-position-y: 70px;
 .team_section {
     max-width: 993px;
     margin: 0 auto;
+  
     
     
 }
@@ -918,7 +925,7 @@ background-position-y: 70px;
     position: relative;
     border-radius: 50%;
     margin: 0px 3px 25px 3px;
-    background: #006633 url(../img/pattern-1.png) top left repeat;
+    
 }
 /*
 .team_box_shadow {
@@ -1066,7 +1073,7 @@ transition: all .3s;
 }
 
 .contact_block_icon.icon3 {
-    border-color: #49b5e7;
+    border-color: #006633;
 }
 
 .contact_block_icon span {
@@ -1242,7 +1249,7 @@ transition: all .3s;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #3a88ba url(../img/pattern-1.png) top left repeat;
+    background: #006633 url(../img/pattern-1.png) top left repeat;
 }
 
 .footer_bottom {
