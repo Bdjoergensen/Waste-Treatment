@@ -363,16 +363,36 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #ED5441;
+    /* background: #ED5441; */
     position: relative;
 	
-    background: #006633 url(../img/pattern-1.png) top left repeat;
+    /* background: #006633 url(../img/pattern-1.png) top left repeat; */
+    background:  url("../img/Film_01.MP4") no-repeat fixed center;
+  
 	height:650px;
+    /* width: 1000px; */
+  
+
+
 }
+#myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    width: 100%;
+ 
+   
+  
+ 
+  }
 
 .hero_section {
+    
     position: relative;
     padding-top: 72px;
+    z-index: 1;
+    display: block;
 }
 
 .white_pad {
