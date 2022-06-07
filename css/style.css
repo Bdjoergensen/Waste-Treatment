@@ -476,7 +476,7 @@ a.read_more{
 }
 a.read_more2:hover, a.read_more:hover {
     background: #fff;
-    color: #0593F9;
+    color: #3a88ba;
     border: 1px solid #fff;
 }
 a.read_more:hover {
@@ -908,7 +908,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #0294FD;
+	color: #3a88ba;
 	left: 0px;
 	top: 3px;
 }
@@ -1421,10 +1421,10 @@ transition: all .3s;
 }
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
-    background: #0294FD;
+    background: #3a88ba;
     color: #FFFFFF;
     text-decoration: none;
-    border: #0294FD solid 1px;
+    border: #3a88ba solid 1px;
 }
 
 .section-title h2 {
