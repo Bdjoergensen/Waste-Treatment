@@ -914,8 +914,9 @@ background-position-y: 70px;
 /* Team
 ---------------------------------*/
 .team_section {
-    max-width: 993px;
+    max-width: 393px;
     margin: 0 auto;
+
   
     
     
@@ -1152,7 +1153,7 @@ transition: all .3s;
     margin: 0 0 0 20px;
     padding-left: 0;
 }
-.contact_info h4 {
+.contact_info h4{
     color: #fff;
 }
 
